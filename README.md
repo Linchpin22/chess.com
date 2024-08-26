@@ -1,5 +1,5 @@
-Chess.com Clone
-Overview
+# Chess.com Clone
+# Overview
 Welcome to the Chess.com Clone! This is a web application where two users can play a game of chess online. The project simulates a real-time multiplayer chess experience, allowing players to join, wait for opponents, or spectate ongoing games.
 
 Features
